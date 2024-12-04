@@ -11,5 +11,5 @@ tags = ["Esquive les flèches ou meurs pour l'éternité ! Sauras-tu survivre ou
 toc = true
 +++
 
-![Logo SIBLS](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png"Logo SIBLS")
+![Logo SIBLS](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
