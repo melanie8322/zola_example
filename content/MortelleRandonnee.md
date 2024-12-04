@@ -19,3 +19,5 @@ _______________________________
 |Allimann   |Mélanie  |oui    |
 |Charmillot |Loys     |non    |
 _______________________________
+
+[^1]: Vian, Boris / L'écume des jours, 1946
