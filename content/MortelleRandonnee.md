@@ -11,6 +11,9 @@ tags = ["Esquive les flèches ou meurs pour l'éternité ! Sauras-tu survivre ou
 toc = true
 +++
 
+Les modificactions ci-dessous sont non-exhaustives[^1]
+[^1]: Vian, Boris / L'écume des jours, 1946
+
 ![Logoimage](https://media.istockphoto.com/id/1322104312/fr/photo/libert%C3%A9-cha%C3%AEnes-qui-se-transforment-en-oiseaux-concept-de-charge.jpg?s=612x612&w=0&k=20&c=4glDXzby1fpG-KHNVZoqOmNeHeaRfxrkSK3U4rm1Ynw=)
 
 _______________________________
@@ -19,5 +22,3 @@ _______________________________
 |Allimann   |Mélanie  |oui    |
 |Charmillot |Loys     |non    |
 _______________________________
-
-[^1]: Vian, Boris / L'écume des jours, 1946
