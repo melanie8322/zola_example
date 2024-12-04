@@ -13,8 +13,9 @@ toc = true
 
 ![LogoSIBLS](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
+_______________________________
 | Nom       |Prénom   |avis   | 
 |:----------|:--------|:-----:|
 |Allimann   |Mélanie  |oui    |
 |Charmillot |Loys     |non    |
-
+_______________________________
